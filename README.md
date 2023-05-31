@@ -29,5 +29,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Para iniciar o **Projeto** utilize os comandos:
 
 ```bash
-yarn install
-yarn start
+yarn 
+yarn dev
